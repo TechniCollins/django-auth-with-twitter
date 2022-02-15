@@ -1,8 +1,6 @@
 # Twitter-OAuth-with-Django-Tweepy
-Made for 'theDatabase', but open for the public. 
 
-The primary role of the app is to provide authentication through Twitter for your users,
-and to give access of you users' Twitter accounts to your Twitter app.
+The primary role of the app is to provide authentication through Twitter for your users.
 
 Ultimately, the item returned is the auth object, which you can store in your database. This django app focuses
 only on the collection of the auth credentials, what you do with the access is entirely your choice 
